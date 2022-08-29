@@ -1,0 +1,30 @@
+
+[
+	{
+		"Nombre": "Pelota de futbol",
+		"Descripcion": "Balon de futbol del mundial",
+		"Codigo": "01",
+		"Foto": "https://media.tycsports.com/files/2022/03/30/408734/pelota-oficial-copa-mundial-de-la-fifa-qatar-2022_416x234.jpg?v=2",
+		"Precio": "10000",
+		"Stock": "100",
+		"id": 1
+	},
+	{
+		"Nombre": "Pelota de rugby",
+		"Descripcion": "Balon de rugby edicion mundial 2019",
+		"Codigo": "02",
+		"Foto": "https://3.bp.blogspot.com/-ambeVjszaa8/WlgZT_1jG3I/AAAAAAAAt10/u732-plY89MTRdz-kgIe8oC-_8Bux8mNgCLcBGAs/w1200-h630-p-k-no-nu/NORTERUGBY-GILBERT-PELOTA-OFICIAL-RWC2019.jpg",
+		"Precio": "7000",
+		"Stock": "200",
+		"id": 2
+	},
+	{
+		"Nombre": "Pelota de voley",
+		"Descripcion": "Balon de voley edicion juegos olimpicos 2020",
+		"Codigo": "03",
+		"Foto": "https://2.bp.blogspot.com/-BN06qTUjP2I/W_A9C0An75I/AAAAAAAAD8A/lOLnpqtJpV8Q5fbwZB3Pr2A85HHlImQAACLcBGAs/s1600/MIkasa%2BV200W.jpg",
+		"Precio": "3000",
+		"Stock": "500",
+		"id": 3
+	}
+]
